@@ -1,0 +1,3 @@
+Acme Corp was founded in 1998 in Portland, Oregon.
+The company builds industrial sensors for cold-chain logistics.
+Its flagship product is the FrostByte 3000, released in 2021.

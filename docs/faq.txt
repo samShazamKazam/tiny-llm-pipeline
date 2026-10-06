@@ -1,0 +1,8 @@
+Q: Where is Acme Corp headquartered?
+A: Portland, Oregon.
+
+Q: What does Acme Corp make?
+A: Industrial sensors for cold-chain logistics.
+
+Q: When was the FrostByte 3000 released?
+A: 2021.
